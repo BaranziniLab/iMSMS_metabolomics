@@ -1,2 +1,6 @@
 venv/
 config.ini
+result/
+data/
+.ipynb_checkpoints/
+__pycache__/
