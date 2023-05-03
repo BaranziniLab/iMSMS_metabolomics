@@ -5,3 +5,10 @@ data/
 .ipynb_checkpoints/
 __pycache__/
 logs/
+tensorboard_embedding_projector/embedding_projector_logs
+patient_classification/patient_autoencoder.ipynb
+patient_classification/patient_classification_dnn.ipynb
+patient_classification/patient_classification_dnn_talos_hyperparam_tuning.ipynb
+patient_classification/patient_classification_rf.ipynb
+patient_classification/patient_classification_rf_pipeline.ipynb
+tensorboard_embedding_projector/

@@ -60,7 +60,7 @@ def remove_outliers(data_, analyte):
     q3 = analyte_concentration_values.quantile(0.75)
     iqr = q3 - q1
     # Define Tukey's fences
-    k = 1.5
+    k = 3
     lower_fence = q1 - k * iqr
     upper_fence = q3 + k * iqr
     # Filter non-outliers

@@ -11,8 +11,8 @@
 echo "Activating virtual environment ..."
 source ~/imsms_venv/bin/activate
 
-sample="serum"
-data_type="with_outlier"
+sample="feces"
+data_type="without_outlier"
 python_code="GLM_model_global_iMSMS_compound.py"
 
 echo "Running python code ..."
