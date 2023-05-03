@@ -14,3 +14,4 @@ patient_classification/patient_classification_rf_pipeline.ipynb
 tensorboard_embedding_projector/
 patient_classification/my_experiment
 patient_classification/dnn_models
+patient_classification/model.png
