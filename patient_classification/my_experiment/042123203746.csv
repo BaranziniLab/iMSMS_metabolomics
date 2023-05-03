@@ -1,7 +1,0 @@
-round_epochs,loss,auc,val_loss,val_auc,first_neuron,second_neuron,activation,last_activation,batch_size,epochs,dropout,lr,early_stopping
-12,0.0005664715426973999,1.0,1.5607115030288696,0.7692499756813049,1000,750,relu,sigmoid,32,50,0.2,0.001,<tensorflow.python.keras.callbacks.EarlyStopping object at 0x7f6584560710>
-20,0.000304769491776824,1.0,1.4708523750305176,0.789699912071228,1000,250,relu,sigmoid,32,50,0.2,0.001,<tensorflow.python.keras.callbacks.EarlyStopping object at 0x7f6584560710>
-13,0.00027396544464863837,1.0,1.8490922451019287,0.7451500296592712,1000,1000,relu,sigmoid,32,50,0.2,0.001,<tensorflow.python.keras.callbacks.EarlyStopping object at 0x7f6584560710>
-21,0.00033622211776673794,1.0,1.537474513053894,0.7742000222206116,1000,300,relu,sigmoid,32,50,0.2,0.001,<tensorflow.python.keras.callbacks.EarlyStopping object at 0x7f6584560710>
-14,0.0008530324557796121,1.0,1.4047147035598755,0.7674500942230225,1000,100,relu,sigmoid,32,50,0.2,0.001,<tensorflow.python.keras.callbacks.EarlyStopping object at 0x7f6584560710>
-16,0.000428909610491246,1.0,1.5104812383651733,0.7780499458312988,1000,500,relu,sigmoid,32,50,0.2,0.001,<tensorflow.python.keras.callbacks.EarlyStopping object at 0x7f6584560710>
