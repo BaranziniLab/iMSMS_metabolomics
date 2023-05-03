@@ -1,5 +1,0 @@
-round_epochs,loss,auc,val_loss,val_auc,first_neuron,second_neuron,activation,last_activation,batch_size,epochs,dropout,lr,early_stopping
-12,0.0014699308667331934,0.9999999403953552,1.4301979541778564,0.7705999612808228,500,750,relu,sigmoid,32,50,0.2,0.001,<keras.callbacks.EarlyStopping object at 0x2b76a2879048>
-19,0.0006193809094838798,1.0,1.4265167713165283,0.7766000032424927,500,200,relu,sigmoid,32,50,0.2,0.001,<keras.callbacks.EarlyStopping object at 0x2b76a2879048>
-19,0.02919326163828373,0.998492419719696,1.9314961433410645,0.747700035572052,500,650,relu,sigmoid,32,50,0.2,0.001,<keras.callbacks.EarlyStopping object at 0x2b76a2879048>
-14,0.001393271260894835,1.0,1.3483413457870483,0.7682499885559082,500,100,relu,sigmoid,32,50,0.2,0.001,<keras.callbacks.EarlyStopping object at 0x2b76a2879048>
